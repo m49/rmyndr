@@ -1,0 +1,2 @@
+# rmyndr
+app ideas
